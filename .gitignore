@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+.file_search_store_name
+.env
+node_modules/

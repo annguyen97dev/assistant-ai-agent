@@ -1,0 +1,358 @@
+{
+  "source": "https://support.optisigns.com/api/v2/help_center/en-us/articles.json",
+  "total_public_articles_seen": 415,
+  "article_count": 39,
+  "articles": [
+    {
+      "id": 360016247974,
+      "title": "How to Upload & Manage Your Files/ Assets",
+      "section": "Assets and content",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360016247974-How-to-Upload-Manage-Your-Files-Assets",
+      "updated_at": "2026-09-10T09:39:25Z",
+      "file": "360016247974-how-to-upload-manage-your-files-assets.md",
+      "sha256": "6fae40488c8a0f33175413b9352857ff0674701780f8ae5bb6b5a426cb213b0a"
+    },
+    {
+      "id": 360016254994,
+      "title": "How to add & use Vimeo video with OptiSigns",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360016254994-How-to-add-use-Vimeo-video-with-OptiSigns",
+      "updated_at": "2025-09-04T18:00:23Z",
+      "file": "360016254994-how-to-add-use-vimeo-video-with-optisigns.md",
+      "sha256": "182d25da44ff5d4393d37aed6fb8e82987d133b62fececc3790970c3e9e9af71"
+    },
+    {
+      "id": 360016374813,
+      "title": "Set up & add a screen",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360016374813-Set-up-add-a-screen",
+      "updated_at": "2025-09-04T16:14:45Z",
+      "file": "360016374813-set-up-add-a-screen.md",
+      "sha256": "235e2983242f65ab6f23c660cc1679d71ba3731df786c95d97ff48a423151afb"
+    },
+    {
+      "id": 360016375153,
+      "title": "Assign content to your screens",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360016375153-Assign-content-to-your-screens",
+      "updated_at": "2026-09-18T08:49:43Z",
+      "file": "360016375153-assign-content-to-your-screens.md",
+      "sha256": "ad6fc37006ba8473410aa05c269ab67ecd27378fd0cf88f8e8b13eaf0b9ffd69"
+    },
+    {
+      "id": 360016981853,
+      "title": "Creating and Using Schedules with OptiSigns",
+      "section": "Schedules",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360016981853-Creating-and-Using-Schedules-with-OptiSigns",
+      "updated_at": "2026-03-31T22:14:33Z",
+      "file": "360016981853-creating-and-using-schedules-with-optisigns.md",
+      "sha256": "459e73d33b2027e2caf32555d93f01e83572d34e07bf95bf138ee3610dbe19ae"
+    },
+    {
+      "id": 360019710493,
+      "title": "How to display Google Slide in Portrait Mode",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360019710493-How-to-display-Google-Slide-in-Portrait-Mode",
+      "updated_at": "2026-09-10T09:40:25Z",
+      "file": "360019710493-how-to-display-google-slide-in-portrait-mode.md",
+      "sha256": "0b5e8e1a760b295aaec919766eb584cd666bd9089753b7354d8c6af366eab087"
+    },
+    {
+      "id": 360035739414,
+      "title": "How to Preview a Screen",
+      "section": "Assets and content",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360035739414-How-to-Preview-a-Screen",
+      "updated_at": "2026-09-07T08:20:47Z",
+      "file": "360035739414-how-to-preview-a-screen.md",
+      "sha256": "05a0e41f68d653a0e19e901f9693d77955a18c09209a8d553d0dfb0e2e885fdf"
+    },
+    {
+      "id": 360040943374,
+      "title": "Assign Default Content for Schedules",
+      "section": "Schedules",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360040943374-Assign-Default-Content-for-Schedules",
+      "updated_at": "2026-09-10T09:41:35Z",
+      "file": "360040943374-assign-default-content-for-schedules.md",
+      "sha256": "88e1f5cbb5a23e406c5c233ac663d60c5f930fd3a05c4a90a2cf5147eb7a1a57"
+    },
+    {
+      "id": 360042736794,
+      "title": "How to set an asset to Live or Expire at specific time",
+      "section": "Schedules",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360042736794-How-to-set-an-asset-to-Live-or-Expire-at-specific-time",
+      "updated_at": "2026-09-11T20:37:05Z",
+      "file": "360042736794-how-to-set-an-asset-to-live-or-expire-at-specific-time.md",
+      "sha256": "478eb0f546b46c21397b889a7a533e86c97f41d1dcfffe02459577550c3dcbcc"
+    },
+    {
+      "id": 360043621953,
+      "title": "How to Create and Use Nested Playlists",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360043621953-How-to-Create-and-Use-Nested-Playlists",
+      "updated_at": "2026-09-11T02:59:22Z",
+      "file": "360043621953-how-to-create-and-use-nested-playlists.md",
+      "sha256": "565794c30c7008957e3048b80e98e8d0ae095ea819f10c4f1271df266c6e056b"
+    },
+    {
+      "id": 360046859534,
+      "title": "How to use Twitch App",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360046859534-How-to-use-Twitch-App",
+      "updated_at": "2025-09-05T14:57:13Z",
+      "file": "360046859534-how-to-use-twitch-app.md",
+      "sha256": "b0e6e8d9d7d86c5edc6db8210c7214de97f83385d6240ad4ca0d69b69381c730"
+    },
+    {
+      "id": 360051014713,
+      "title": "How to Use YouTube with OptiSigns",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns",
+      "updated_at": "2026-09-24T14:52:18Z",
+      "file": "360051014713-how-to-use-youtube-with-optisigns.md",
+      "sha256": "5aac769931a24c03c08a0302f30f9734cc3130a6ec15b2e5c49636b5c73c28a5"
+    },
+    {
+      "id": 360053211594,
+      "title": "Set OptiSigns as ScreenSaver on Windows",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360053211594-Set-OptiSigns-as-ScreenSaver-on-Windows",
+      "updated_at": "2026-09-10T09:43:48Z",
+      "file": "360053211594-set-optisigns-as-screensaver-on-windows.md",
+      "sha256": "c2838fa3c854c57271fba3795b0b5fb3163c859da49bf71c265b663f9eb0280d"
+    },
+    {
+      "id": 360058700673,
+      "title": "How to unpair a device, screen?",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360058700673-How-to-unpair-a-device-screen",
+      "updated_at": "2026-09-10T09:44:43Z",
+      "file": "360058700673-how-to-unpair-a-device-screen.md",
+      "sha256": "1fc7e8af6a1bafeaf35381ea0b4d6d480977fbfc0ba581327ffd231c29d82f7b"
+    },
+    {
+      "id": 360060049534,
+      "title": "How to export high resolution canvas, template designs",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360060049534-How-to-export-high-resolution-canvas-template-designs",
+      "updated_at": "2026-09-08T04:06:29Z",
+      "file": "360060049534-how-to-export-high-resolution-canvas-template-designs.md",
+      "sha256": "478117d3b8e30ec56bac59069dbd185873476a34c7fa64d4f4924396193f63d8"
+    },
+    {
+      "id": 360060202914,
+      "title": "How to use YouTube Channel with OptiSigns",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360060202914-How-to-use-YouTube-Channel-with-OptiSigns",
+      "updated_at": "2026-09-10T09:44:55Z",
+      "file": "360060202914-how-to-use-youtube-channel-with-optisigns.md",
+      "sha256": "c9a3479a97f81db98cb04a3665656ed181a39db6dedc96064b61f25b99ae55a7"
+    },
+    {
+      "id": 360060284174,
+      "title": "How to use YouTube Live Schedule with OptiSigns",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360060284174-How-to-use-YouTube-Live-Schedule-with-OptiSigns",
+      "updated_at": "2026-01-22T15:44:40Z",
+      "file": "360060284174-how-to-use-youtube-live-schedule-with-optisigns.md",
+      "sha256": "c63db70707a4d77ff4279c672680c2987de077cc86f4fa4371c98f6a9fff5480"
+    },
+    {
+      "id": 1500002131621,
+      "title": "How to use YouTube Live with OptiSigns",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/1500002131621-How-to-use-YouTube-Live-with-OptiSigns",
+      "updated_at": "2025-09-05T14:35:18Z",
+      "file": "1500002131621-how-to-use-youtube-live-with-optisigns.md",
+      "sha256": "e075f858886f7a9370ca7a2a4672d71d20b72fbfb4fa177779ee898e51bc33c7"
+    },
+    {
+      "id": 1500009498782,
+      "title": "How to replace/update an existing asset (image, video, documents)",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/1500009498782-How-to-replace-update-an-existing-asset-image-video-documents",
+      "updated_at": "2026-09-10T18:51:56Z",
+      "file": "1500009498782-how-to-replace-update-an-existing-asset-image-video-documents.md",
+      "sha256": "cd86ca0493a7f04537602881f62c018b36cba68c4485d99c94539ba23c612e5e"
+    },
+    {
+      "id": 4408052029587,
+      "title": "How to Use Weather Apps Based on Device Location",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/4408052029587-How-to-Use-Weather-Apps-Based-on-Device-Location",
+      "updated_at": "2026-09-10T09:47:09Z",
+      "file": "4408052029587-how-to-use-weather-apps-based-on-device-location.md",
+      "sha256": "c0e5f800871016598fdcd61d1911983ee8b9111c4f779ccda0ab9ace86d1ebcc"
+    },
+    {
+      "id": 4410655948563,
+      "title": "How to use livestream.com app",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/4410655948563-How-to-use-livestream-com-app",
+      "updated_at": "2026-09-10T09:47:31Z",
+      "file": "4410655948563-how-to-use-livestream-com-app.md",
+      "sha256": "3dd60c46d969e071559efd56e42095db626e04961370da0a0db0fca651a3a907"
+    },
+    {
+      "id": 4412065189267,
+      "title": "Synchronized playback (Sync Play) feature",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/4412065189267-Synchronized-playback-Sync-Play-feature",
+      "updated_at": "2026-09-10T09:47:37Z",
+      "file": "4412065189267-synchronized-playback-sync-play-feature.md",
+      "sha256": "8ab241d250ebb614bc4f37cd5cf73ea97cac25661634ef57d03f46dab9176234"
+    },
+    {
+      "id": 4416704273811,
+      "title": "Manually control playlist playback with OptiSigns",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/4416704273811-Manually-control-playlist-playback-with-OptiSigns",
+      "updated_at": "2026-09-08T16:46:49Z",
+      "file": "4416704273811-manually-control-playlist-playback-with-optisigns.md",
+      "sha256": "1c2e05c5d803ec7c4c9df15316c019c6f8d0acf7fa73f35436b5ce68e8705470"
+    },
+    {
+      "id": 4472060158355,
+      "title": "How to get the list of playlists where the asset is used",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/4472060158355-How-to-get-the-list-of-playlists-where-the-asset-is-used",
+      "updated_at": "2026-09-10T09:47:59Z",
+      "file": "4472060158355-how-to-get-the-list-of-playlists-where-the-asset-is-used.md",
+      "sha256": "f0f2cba1b132cb6ec9559f67795408224b9fa359dc38d7fff23b8581dce99cb6"
+    },
+    {
+      "id": 8369526604435,
+      "title": "How to use the Video Stream app",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/8369526604435-How-to-use-the-Video-Stream-app",
+      "updated_at": "2026-09-10T09:48:38Z",
+      "file": "8369526604435-how-to-use-the-video-stream-app.md",
+      "sha256": "61f578e9c867566ee3739fe6b89a4ea8e7623a078ada615285a83ab490a65207"
+    },
+    {
+      "id": 12498801963027,
+      "title": "Show Offline Indicator feature",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/12498801963027-Show-Offline-Indicator-feature",
+      "updated_at": "2026-09-07T11:26:19Z",
+      "file": "12498801963027-show-offline-indicator-feature.md",
+      "sha256": "07a84d31f99157def5bfe6d671454fd7bcd0bb824ef0e8efd6786f300a1ba274"
+    },
+    {
+      "id": 12947820509971,
+      "title": "Show/Hide Offline Indicator on your Player",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/12947820509971-Show-Hide-Offline-Indicator-on-your-Player",
+      "updated_at": "2026-09-10T08:01:07Z",
+      "file": "12947820509971-show-hide-offline-indicator-on-your-player.md",
+      "sha256": "40d3168b0d6e4c7d56916c4b2d42222e56dbf1133c8debd376683362b5c4f5e7"
+    },
+    {
+      "id": 16364134190355,
+      "title": "How to use Streaming App with OptiSigns",
+      "section": "YouTube and video",
+      "url": "https://support.optisigns.com/hc/en-us/articles/16364134190355-How-to-use-Streaming-App-with-OptiSigns",
+      "updated_at": "2026-09-14T16:05:11Z",
+      "file": "16364134190355-how-to-use-streaming-app-with-optisigns.md",
+      "sha256": "4b177194fd17ec009b786fea97eb71886bc1c0437e2a1f4a5ee78b9301d2763a"
+    },
+    {
+      "id": 18823504383891,
+      "title": "OptiSigns - Getting Started Guide",
+      "section": "Getting started",
+      "url": "https://support.optisigns.com/hc/en-us/articles/18823504383891-OptiSigns-Getting-Started-Guide",
+      "updated_at": "2026-08-21T05:37:19Z",
+      "file": "18823504383891-optisigns-getting-started-guide.md",
+      "sha256": "52d295af860ed945416761d27ba0b2fd1fa63226deeb1b95c755a1218c651ae5"
+    },
+    {
+      "id": 20062273670163,
+      "title": "How to Control and Schedule Playlist Items",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/20062273670163-How-to-Control-and-Schedule-Playlist-Items",
+      "updated_at": "2026-09-10T09:50:02Z",
+      "file": "20062273670163-how-to-control-and-schedule-playlist-items.md",
+      "sha256": "ad31cd70a94470eb7d2c3318b9fffc0b5588b773411b5c1648fe531b9f32511f"
+    },
+    {
+      "id": 20879903340947,
+      "title": "How to Use Content Tags in The Playlist",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/20879903340947-How-to-Use-Content-Tags-in-The-Playlist",
+      "updated_at": "2026-09-14T02:42:33Z",
+      "file": "20879903340947-how-to-use-content-tags-in-the-playlist.md",
+      "sha256": "8b65017e59a4817bb6d61ad37b6e76b59df39cdcb6de954005170e2e3a6d605e"
+    },
+    {
+      "id": 22474034993043,
+      "title": "Advanced Playlist Item Playback Control & Campaign Management",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/22474034993043-Advanced-Playlist-Item-Playback-Control-Campaign-Management",
+      "updated_at": "2026-09-10T09:50:21Z",
+      "file": "22474034993043-advanced-playlist-item-playback-control-campaign-management.md",
+      "sha256": "4deb5a9393d6ccb4d173ccbc1f3bf702b2ace347e81aa4e91d7496593968efbe"
+    },
+    {
+      "id": 25127398699667,
+      "title": "How to add a QR Code in designs using OptiSigns’ Designer",
+      "section": "Screens",
+      "url": "https://support.optisigns.com/hc/en-us/articles/25127398699667-How-to-add-a-QR-Code-in-designs-using-OptiSigns-Designer",
+      "updated_at": "2026-09-10T21:45:48Z",
+      "file": "25127398699667-how-to-add-a-qr-code-in-designs-using-optisigns-designer.md",
+      "sha256": "20318d249fac2980c40cc523dcd33023824eab6abeab26d48eb73e067903643b"
+    },
+    {
+      "id": 25273043501587,
+      "title": "How to Lockdown iPad/Single App with Guided Accessibility",
+      "section": "Playlist controls",
+      "url": "https://support.optisigns.com/hc/en-us/articles/25273043501587-How-to-Lockdown-iPad-Single-App-with-Guided-Accessibility",
+      "updated_at": "2026-09-10T09:50:40Z",
+      "file": "25273043501587-how-to-lockdown-ipad-single-app-with-guided-accessibility.md",
+      "sha256": "f5feebfd538a5e0123f5e8221f6fb7fe78b5bc20285dd264c39b7c46999da539"
+    },
+    {
+      "id": 25607930101907,
+      "title": "How to get the most out of your Digital Signs",
+      "section": "Getting started",
+      "url": "https://support.optisigns.com/hc/en-us/articles/25607930101907-How-to-get-the-most-out-of-your-Digital-Signs",
+      "updated_at": "2026-09-10T09:50:43Z",
+      "file": "25607930101907-how-to-get-the-most-out-of-your-digital-signs.md",
+      "sha256": "e8a4095b62c2ae831b50863ead518d597c748c581b1d4242dc499a4549f9189b"
+    },
+    {
+      "id": 28295074995859,
+      "title": "How to Manage and Edit Your Playlist Settings",
+      "section": "Playlists",
+      "url": "https://support.optisigns.com/hc/en-us/articles/28295074995859-How-to-Manage-and-Edit-Your-Playlist-Settings",
+      "updated_at": "2026-09-14T16:01:05Z",
+      "file": "28295074995859-how-to-manage-and-edit-your-playlist-settings.md",
+      "sha256": "7f09a83e3f35081c141e2494baa72830768b139fa65579db6313757437d3f3aa"
+    },
+    {
+      "id": 28295104605843,
+      "title": "How to Create & Use Playlists",
+      "section": "Playlists",
+      "url": "https://support.optisigns.com/hc/en-us/articles/28295104605843-How-to-Create-Use-Playlists",
+      "updated_at": "2026-09-10T09:51:04Z",
+      "file": "28295104605843-how-to-create-use-playlists.md",
+      "sha256": "2f3900ee10aafcb0659459575c13b454cf63a649b86d9cab2b352e12b9cd3fdf"
+    },
+    {
+      "id": 29792081890323,
+      "title": "Guide for Creating Content with OptiSigns",
+      "section": "Assets and content",
+      "url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns",
+      "updated_at": "2026-09-10T09:51:20Z",
+      "file": "29792081890323-guide-for-creating-content-with-optisigns.md",
+      "sha256": "ec3e586db34165fbda470f3ffc493a95f1c2445b91357490fae904c164996954"
+    },
+    {
+      "id": 35626165056787,
+      "title": "How to Contact OptiSigns Support",
+      "section": "Getting started",
+      "url": "https://support.optisigns.com/hc/en-us/articles/35626165056787-How-to-Contact-OptiSigns-Support",
+      "updated_at": "2026-09-10T10:46:17Z",
+      "file": "35626165056787-how-to-contact-optisigns-support.md",
+      "sha256": "b711743b5e65ea7451b3e02aad12055389cf7e3b5692ccab5575de239c67b274"
+    }
+  ]
+}
