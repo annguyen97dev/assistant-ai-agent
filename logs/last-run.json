@@ -1,0 +1,17 @@
+{
+  "started_at_utc": "2026-10-03T17:43:12.761692+00:00",
+  "finished_at_utc": "2026-10-03T17:43:20.821019+00:00",
+  "total_public_articles_seen": 415,
+  "file_search_store_name": "fileSearchStores/optibot-help-center-3aahsbbl6zbm",
+  "source_articles": 39,
+  "added": 0,
+  "updated": 0,
+  "skipped": 39,
+  "chunk_count_note": "Gemini does not return the actual number of internal chunks",
+  "chunking_config": {
+    "white_space_config": {
+      "max_tokens_per_chunk": 512,
+      "max_overlap_tokens": 50
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.env
+.file_search_store_name
+.venv/
+__pycache__/
+*.pyc
+articles/
+logs/
+screenshots/
+.git/
+node_modules/
+.railway/

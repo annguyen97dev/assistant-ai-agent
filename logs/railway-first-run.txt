@@ -1,0 +1,62 @@
+Railway deployment: https://railway.com/project/e647be60-33fe-4bd6-8da3-d133158c2ffa/service/530f0ffd-322e-45f7-b9cd-667638a1b6cc?id=af4535f7-413c-49cc-80ab-b5153f138556
+Status observed after run: Completed
+
+Starting Container
+Output: /app/articles
+Using File Search store: fileSearchStores/optibot-help-center-3aahsbbl6zbm
+Fetched 415 public articles; selected 39; Markdown files changed: 39; unchanged: 0
+skipped 360016247974-how-to-upload-manage-your-files-assets.md
+skipped 360016254994-how-to-add-use-vimeo-video-with-optisigns.md
+skipped 360016374813-set-up-add-a-screen.md
+skipped 360016375153-assign-content-to-your-screens.md
+skipped 360016981853-creating-and-using-schedules-with-optisigns.md
+skipped 360019710493-how-to-display-google-slide-in-portrait-mode.md
+skipped 360035739414-how-to-preview-a-screen.md
+skipped 360040943374-assign-default-content-for-schedules.md
+skipped 360042736794-how-to-set-an-asset-to-live-or-expire-at-specific-time.md
+skipped 360043621953-how-to-create-and-use-nested-playlists.md
+skipped 360046859534-how-to-use-twitch-app.md
+skipped 360051014713-how-to-use-youtube-with-optisigns.md
+skipped 360053211594-set-optisigns-as-screensaver-on-windows.md
+skipped 360058700673-how-to-unpair-a-device-screen.md
+skipped 360060049534-how-to-export-high-resolution-canvas-template-designs.md
+skipped 360060202914-how-to-use-youtube-channel-with-optisigns.md
+skipped 360060284174-how-to-use-youtube-live-schedule-with-optisigns.md
+skipped 1500002131621-how-to-use-youtube-live-with-optisigns.md
+skipped 18823504383891-optisigns-getting-started-guide.md
+skipped 20062273670163-how-to-control-and-schedule-playlist-items.md
+skipped 20879903340947-how-to-use-content-tags-in-the-playlist.md
+skipped 1500009498782-how-to-replace-update-an-existing-asset-image-video-documents.md
+skipped 22474034993043-advanced-playlist-item-playback-control-campaign-management.md
+skipped 25127398699667-how-to-add-a-qr-code-in-designs-using-optisigns-designer.md
+skipped 4408052029587-how-to-use-weather-apps-based-on-device-location.md
+skipped 25273043501587-how-to-lockdown-ipad-single-app-with-guided-accessibility.md
+skipped 4410655948563-how-to-use-livestream-com-app.md
+skipped 25607930101907-how-to-get-the-most-out-of-your-digital-signs.md
+skipped 28295074995859-how-to-manage-and-edit-your-playlist-settings.md
+skipped 4412065189267-synchronized-playback-sync-play-feature.md
+skipped 4416704273811-manually-control-playlist-playback-with-optisigns.md
+skipped 4472060158355-how-to-get-the-list-of-playlists-where-the-asset-is-used.md
+skipped 8369526604435-how-to-use-the-video-stream-app.md
+skipped 12498801963027-show-offline-indicator-feature.md
+skipped 12947820509971-show-hide-offline-indicator-on-your-player.md
+skipped 16364134190355-how-to-use-streaming-app-with-optisigns.md
+  }
+}
+JOB_RESULT {"started_at_utc": "2026-10-03T17:55:11.769521+00:00", "finished_at_utc": "2026-10-03T17:55:16.204374+00:00", "total_public_articles_seen": 415, "file_search_store_name": "fileSearchStores/optibot-help-center-3aahsbbl6zbm", "source_articles": 39, "added": 0, "updated": 0, "skipped": 39, "chunk_count_note": "Gemini does not return the actual number of internal chunks", "chunking_config": {"white_space_config": {"max_tokens_per_chunk": 512, "max_overlap_tokens": 50}}}
+skipped 28295104605843-how-to-create-use-playlists.md
+skipped 29792081890323-guide-for-creating-content-with-optisigns.md
+skipped 35626165056787-how-to-contact-optisigns-support.md
+{
+  "file_search_store_name": "fileSearchStores/optibot-help-center-3aahsbbl6zbm",
+  "source_articles": 39,
+  "added": 0,
+  "updated": 0,
+  "skipped": 39,
+  "chunk_count_note": "Gemini does not return the actual number of internal chunks",
+  "chunking_config": {
+    "white_space_config": {
+      "max_tokens_per_chunk": 512,
+      "max_overlap_tokens": 50
+    }
+Stopping Container
