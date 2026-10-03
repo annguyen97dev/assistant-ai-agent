@@ -1,0 +1,12 @@
+To add a YouTube video to your digital signs, follow these steps:
+
+* **Go to Apps:** Log in to your OptiSigns portal, navigate to **Files/Assets**, and click **Apps**.
+* **Select the YouTube App:** Search for "YouTube" and click on the **YouTube** app.
+* **Enter Video Details:** Paste your video link into the **URL** field (supports regular links, share links, and YouTube Shorts) and enter an optional **Name**.
+* **Adjust Settings (Optional):** Expand **Display options** to toggle captions or mute the video, or use **Playback options** to set custom Start At and End At times.
+* **Save and Assign:** Click **Save**. You can now assign the video directly to your screens or add it to a playlist.
+
+Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
+
+Sources:
+Article URL: https://support.optisigns.com/hc/en-us/articles/360060202914-How-to-use-YouTube-Channel-with-OptiSigns
