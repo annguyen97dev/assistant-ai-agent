@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sys
 from datetime import datetime, timezone
 
@@ -12,7 +13,7 @@ from upload import ARTICLES_DIR, ROOT, load_corpus, resolve_store_name, upload
 
 def main() -> int:
     store_name = resolve_store_name()
-    if not store_name:
+    if not store_name and os.environ.get("REQUIRE_EXISTING_STORE") == "1":
         raise RuntimeError(
             "Set FILE_SEARCH_STORE_NAME to the existing store before scheduling the job"
         )

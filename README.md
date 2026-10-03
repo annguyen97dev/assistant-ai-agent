@@ -17,10 +17,12 @@ cp .env.sample .env  # set GEMINI_API_KEY locally; never commit it
 
 ## Daily Railway job
 
-`main.py` runs one scrape-and-sync pass, prints `added`, `updated`, and `skipped` counts as `JOB_RESULT`, writes `logs/last-run.json`, then exits 0. The [Dockerfile](Dockerfile) runs this one-shot command. Locally: `docker build -t optibot-daily .` and `docker run --rm --env-file .env optibot-daily` (set `FILE_SEARCH_STORE_NAME` in `.env` to the existing store).
+`main.py` runs one scrape-and-sync pass, prints `added`, `updated`, and `skipped` counts as `JOB_RESULT`, writes `logs/last-run.json`, then exits 0. The [Dockerfile](Dockerfile) runs it once. Build with `docker build -t optibot-daily .`; `docker run --rm -e API_KEY=... optibot-daily` creates a store, while `-e FILE_SEARCH_STORE_NAME=...` reuses one.
 
 [Railway daily-sync service](https://railway.com/project/e647be60-33fe-4bd6-8da3-d133158c2ffa/service/530f0ffd-322e-45f7-b9cd-667638a1b6cc) is scheduled by `.railway/railway.ts` for `0 19 * * *` UTC (02:00 Vietnam time). The first [Railway run log](logs/railway-first-run.txt) recorded `added=0`, `updated=0`, `skipped=39` and a successful exit. Railway dashboard logs may require project access; the checked-in log is the reviewable artifact. The Gemini key is a Railway service variable and is excluded from the image and Git.
 
 ## Assistant evidence
 
-[Google AI Studio Build screenshot](screenshots/optibot-aistudio-youtube.png) shows the requested YouTube question, answer, and cited URLs. `ask.py` independently checks File Search retrieval; [API answer log](logs/youtube-answer.txt) and [upload log](logs/upload-verification.txt) record the result.
+`ask.py` independently checks retrieval; see the [API answer log](logs/youtube-answer.txt) and [upload log](logs/upload-verification.txt).
+
+<img src="screenshots/optibot-aistudio-youtube.png" alt="OptiBot answers the YouTube question and cites Help Center URLs" width="420">

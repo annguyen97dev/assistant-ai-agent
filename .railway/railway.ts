@@ -9,6 +9,7 @@ export default defineRailway(() => {
     },
     env: {
       FILE_SEARCH_STORE_NAME: "fileSearchStores/optibot-help-center-3aahsbbl6zbm",
+      REQUIRE_EXISTING_STORE: "1",
       GEMINI_API_KEY: preserve(),
     },
   });
